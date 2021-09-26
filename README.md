@@ -1,7 +1,9 @@
-<h1 align="center">Hi 👋, I'm Genesis</h1>
+<h1 align="center">Hi 👋, I'm Genesis (@Genesis-Parras)</h1>
 <h3 align="center">A passionate frontend developer from Los Angeles</h3>
 
 - 🔭 I’m currently studying at **Thinkful.**
+
+- 😎 I'm interested in: **music, science, women's soccer, and gaming.**
 
 - 🌱 I’m currently learning **Node + Express.**
 
